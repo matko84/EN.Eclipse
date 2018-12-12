@@ -44,7 +44,8 @@ public class Varijable {
 		int j,k,l;
 		k=2;
 		
-		int a=3, aa=4; boolean ok=true;
+		int a=3, aa=4; 
+		boolean ok=true;
 		
 		double d2 = 1.234e2;
 		

@@ -4,7 +4,7 @@ public class DobraPraksa {
 //ispisši OK ako i nije jednako 3
 	public static void main(String[] args) {
 		
-		int i=3;
+		int i=2;
 		
 		if (i==3) {
 			return; //short curcuiting
