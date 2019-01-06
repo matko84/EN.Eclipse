@@ -2,7 +2,7 @@ package matko;
 
 import javax.swing.JOptionPane;
 
-public class Zadatak06 {
+public class Zadatak06 { 
 
 	public static void main(String[] args) {
 

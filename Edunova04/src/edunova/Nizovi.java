@@ -15,12 +15,18 @@ public class Nizovi {
 		
 		//već koristiti nizove
 		//osnovna sintaksa - jednodimenzonalni
-		int[] niz = new int[4];	
+		int[] niz;
+		niz= new int[4];	
 		niz[0]=3;
 		niz[1]=4;
 		niz[2]=2;
 		niz[3]=6;
 		
+		Arrays.sort(niz);
+		
+		
+		//System.out.println(niz[1]);
+		//System.out.println(Arrays.toString(niz));
 		System.out.println(Arrays.toString(niz));
 		
 		//varijanta 2

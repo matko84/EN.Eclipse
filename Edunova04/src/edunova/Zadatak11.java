@@ -3,7 +3,7 @@ package edunova;
 import javax.swing.JOptionPane;
 
 public class Zadatak11 {
-
+ 
 	// Program prima 4 broja
 	// ispisuje zbroj svih parnih primljenih brojeva
 
@@ -12,11 +12,17 @@ public class Zadatak11 {
 		int j = Integer.parseInt(JOptionPane.showInputDialog("Unesi 2. broj"));
 		int k = Integer.parseInt(JOptionPane.showInputDialog("Unesi 3. broj"));
 		int l = Integer.parseInt(JOptionPane.showInputDialog("Unesi 4. broj"));
-		
+
+//varijabli zboj dodjeli se početna vrijednost 0
 		int zbroj=0;
+		
+//ukoliko je broj paran početnoj vrijednosti se doda vrijednost navedenog broja
+//zbroj prima novu vrijednost
 		if(i%2==0) {
 			zbroj=zbroj+i;
 		}
+		
+		
 		if(j%2==0) {
 			zbroj=zbroj+j;
 		}

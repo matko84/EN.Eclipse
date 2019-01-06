@@ -9,16 +9,17 @@ public class Zadatak1 {
 	//Program učitava 4 cijela broja i ispisuje ih od najmanjeg prema najvećem
 	
 	public static void main(String[] args) {
-		int polje[] = {3,4,2,6};
-		int[] niz = {
-				Integer.parseInt(JOptionPane.showInputDialog("Unesi 1. broj")),
-				Integer.parseInt(JOptionPane.showInputDialog("Unesi 2. broj")),
-				Integer.parseInt(JOptionPane.showInputDialog("Unesi 3. broj")),
-				Integer.parseInt(JOptionPane.showInputDialog("Unesi 4. broj"))	
-		};
-		Arrays.sort(niz);
-		System.out.println(Arrays.toString(niz));
 		
+		int a=Integer.parseInt(JOptionPane.showInputDialog("1. broj:"));
+		int b=Integer.parseInt(JOptionPane.showInputDialog("2. broj:"));
+		int c=Integer.parseInt(JOptionPane.showInputDialog("3. broj:"));
+		int d=Integer.parseInt(JOptionPane.showInputDialog("4. broj:"));
+		
+		int niz [] = {a,b,c,d};
+		
+		Arrays.sort(niz);
+		
+		System.out.println(Arrays.toString(niz));
 		
 	}
 

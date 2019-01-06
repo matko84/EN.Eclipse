@@ -20,5 +20,5 @@ public class Zadatak05 {
 			System.out.println("Isti su");
 		}
 	}
-
+ 
 }
