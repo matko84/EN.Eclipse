@@ -4,6 +4,11 @@
 //		+ https://www.w3resource.com/java-exercises/basic/index.php
 //		+ https://codingbat.com/java
 //		+ https://www.codecademy.com/learn/learn-java
+//		https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260
+//		https://searchmicroservices.techtarget.com/definition/object-oriented-programming-OOP
+//		http://www.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html
+//		https://docs.oracle.com/javase/tutorial/java/concepts/index.html
+	
 //		
 //		MAIN METODA
 //		WRAPPERS
