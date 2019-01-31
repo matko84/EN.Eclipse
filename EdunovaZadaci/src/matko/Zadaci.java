@@ -13,6 +13,7 @@
 //		MAIN METODA
 //		WRAPPERS
 //		METODS
+//		OBJECT
 //		CLASS
 //		PACKAGE
 //		IF
@@ -26,7 +27,14 @@
 //		WHILE		
 //		DO WHILE
 //		FOR ILI (DO)WHILE
-//
+//		OOP
+//		INHERITANCE
+//		JOptionPane
+//		PUBLIC, PRIVATE, PROTECTED
+//		ENCAPSULATION
+//		ABSTRACTION
+//		INHERITANCE
+//		POLYMORPHISM
 //_________________________________________________________
 //
 //		E1Z1	ispisati "hello world"
